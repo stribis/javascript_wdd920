@@ -77,5 +77,6 @@ console.log(7 % 2)
 console.log(2687 % 14)
 
 // Check if number is even
+console.log(7 % 2) // if value is > 0 
 
 
