@@ -14,6 +14,7 @@ if ( x > y ) {
   console.log('The numbers are equal')
 }
 
+// Output 5
 
 // Aufgabe #2
 
@@ -29,4 +30,6 @@ if  ( a > b &&  b > c ){
   console.log( b, a, c)
 } else if ( a > c && c > b) {
   console.log( b, c, a)
-}
+}// ... and so on
+
+//Output: 5, 8, 9

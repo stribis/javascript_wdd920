@@ -27,11 +27,11 @@ var multi = [
   ]
 ]
 
-// Chin
-console.log(multi[1][1])
 
-// 6
-console.log(multi[2][1][2])
+console.log(multi[1][1])// Chin
 
-// banana
-console.log(multi[2][3][2][1])
+
+console.log(multi[2][1][2])// 6
+
+
+console.log(multi[2][3][2][1])// banana

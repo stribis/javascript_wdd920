@@ -15,3 +15,8 @@ console.log(person + ' loves ' + food)
 if (foo) {
   console.log('bar')
 }
+
+/* Uses unicode */
+
+var früh = '8:30';
+var frueh;

@@ -25,45 +25,46 @@ var conc = myStr1 + separator + myStr2;
 
 var someNumber = 15;
 
-// console.log(myNum - someNumber) // -76 (Number)
-// console.log(myNum * someNumber) // 2400 (Number)
-// console.log(myNum / someNumber) // 0.24 (Number)
-// console.log(24 * 32 - 200 + (3 * 4))
+console.log(myNum - someNumber) // -76 (Number)
+console.log(myNum * someNumber) // 2400 (Number)
+console.log(myNum / someNumber) // 0.24 (Number)
+console.log(24 * 32 - 200 + (3 * 4))
 
 // > And < (outputs a true or false)
 // In strings, number of characters will be compared
 // In numbers, the values are compared
 
-//console.log( 'foo' > 'fo' )
+console.log( 3 > 1 ) // True
+console.log( 'foo' > 'fo' ) // True
 
 // Check if equal ( == )
 // Compares the content (value) of the variable
 
-// console.log('100' == 100)
+console.log('100' == 100) // True
 
 // Check if STRICTLY Equal (===)
 // Compares the content (value) AND the data type of the variable (BOTH) 
-// console.log(someNumber === 100)
+console.log(someNumber === 100)// false
 
 
-// console.log(someNumber <= 100)
-// console.log(someNumber >= 100)
+console.log(someNumber <= 100) // true
+console.log(someNumber >= 100) // false
 
 // Not equal to
 // NOT operator (!)
-// console.log( someNumber != 100) // ==
-// console.log( someNumber !== 100) // ===
+console.log( someNumber != 100) // ==
+console.log( someNumber !== 100) // ===
 
 // AND and OR
 // &&  and ||
 
 // And
-// console.log( 100 > 80 && 100 < 200) // true
-// console.log( 100 > 80 && 300 < 200) // false
+console.log( 100 > 80 && 100 < 200) // true
+console.log( 100 > 80 && 300 < 200) // false
 
 // // Or
-// console.log( 100 > 80 || 100 < 200) // true
-// console.log( 100 > 80 || 300 < 200) // true
+console.log( 100 > 80 || 100 < 200) // true
+console.log( 100 > 80 || 300 < 200) // true
 
 
 // Modulus Operator || Modulo Operator

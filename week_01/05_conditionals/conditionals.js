@@ -1,34 +1,36 @@
-
+// Conditionals 
+// Is basically code that will execute if a condition is true
 /*
+Syntax:
 if (CONDITION (Vergleich)) {
   Statement
   Code we want to execute, if condition is true
 }
 */
 
-// var currentWater = 1
-// var warningWater = 200
-// var requiredWater = 100
+var currentWater = 1
+var warningWater = 200
+var requiredWater = 100
 
 // If enough water: Tell user there is enough water
 // If NOT enough water: Tell user to refill tray
 
 
-// if ( currentWater >= requiredWater ) {
-//   console.log('there is enough water')
-// } else {
-//   console.log('refill tray')
-// }
+if ( currentWater >= requiredWater ) {
+  console.log('there is enough water')
+} else {
+  console.log('refill tray')
+}
 
-// if (currentWater <= warningWater) {
-//   console.log('Warning! Running low on water, refill tray soon')
-// } 
+if (currentWater <= warningWater) {
+  console.log('Warning! Running low on water, refill tray soon')
+} 
 
 
 
-// if ( 100 > 1 ) {
-//   console.log('A hundred is more than one')
-// } 
+if ( 100 > 1 ) {
+  console.log('A hundred is more than one')
+} 
 
 // Coffee Machine with console.log
 

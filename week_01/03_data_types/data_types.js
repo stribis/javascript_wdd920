@@ -28,3 +28,4 @@ console.log(person)
 
 // Nicht definier : undefined
 // Kein Wert : NULL
+
