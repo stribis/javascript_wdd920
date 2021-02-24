@@ -32,7 +32,7 @@
       * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 * :hammer_and_wrench: Exercises
   1. Repetition questions
-<!-- ---
+---
 ### :calendar: Week 2
 #### Day 1
 * :notebook: Lesson
@@ -58,6 +58,7 @@
   3. Using the string methods we learned in Lesson 1
   4. Homework assignment
 ---
+---
 ### :calendar: Week 3
 #### Day 1
 * :notebook: Lesson
@@ -74,6 +75,8 @@
   3. Template Strings 
       * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 ---
+
+<!--
 ### :calendar: Week 4
 #### Day 1 & 2
 * :notebook: Lesson

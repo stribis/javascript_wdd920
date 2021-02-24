@@ -31,12 +31,18 @@ var filteredMessages = [];
 
 
 for ( var i = 0; i < messages.length; i++ ) {
-
+  
+  var newMessage = messages[i]
+  evilwords[i]
   for ( var j = 0; j < evilwords.length; j++ ) {
 
     // do a replace()
     // look for evilwords[j] in messages[i]
-  
+    newMessage = newMessage.replace(evilwords[j], goodwords[j])
+    
   }
 
+  filteredMessages.push(newMessage)
 }
+
+console.log(filteredMessages)
