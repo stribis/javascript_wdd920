@@ -46,6 +46,7 @@ const listItems = document.querySelectorAll('li')
 
 listItems.forEach(listItem => {
   listItem.style.textDecoration = 'underline'
+
 })
 
 

@@ -76,7 +76,6 @@
       * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 ---
 
-<!--
 ### :calendar: Week 4
 #### Day 1 & 2
 * :notebook: Lesson
@@ -94,4 +93,4 @@
 ---
 ### :calendar: Week 4.5
 * :hammer_and_wrench: Homework
-  * DO NOT CHECK THE SOLUTION BEFORE TRYING -->
+  * DO NOT CHECK THE SOLUTION BEFORE TRYING 
