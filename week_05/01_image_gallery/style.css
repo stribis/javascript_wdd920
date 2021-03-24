@@ -1,0 +1,17 @@
+.container {
+  max-width: 760px;
+  margin: auto;
+  border: solid white 3px;
+  background-color: white;
+}
+
+.main-img img,
+.images img {
+  width: 100%;
+}
+
+.images {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
